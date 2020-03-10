@@ -3,6 +3,7 @@
 A curated list of kick-ass resources and real-life apps for Alpas Framework
 
 - [Websites](#website)
+- [Alpas Ecosystem](#ecosystem)
 - [Guides and Tutorials](#guides)
 - [Out-of-the-box Libraries](#otblibs)
 - [Helpful Libraries](#libs)
@@ -24,6 +25,14 @@ A curated list of kick-ass resources and real-life apps for Alpas Framework
 - [Kotlin Home](https://kotlinlang.org/)
 - [Kotlin Documents](https://kotlinlang.org/docs/reference/)
 - [Try Kotlin in your Browser](https://try.kotlinlang.org/)
+
+<a name="ecosystem"></a>
+## Alpas Ecosystem
+- [Glaze](https://github.com/alpas/glaze) - WIP - access Alpas named routes in your JavaScript
+- [Notary](https://github.com/alpas/notary) - WIP - social authentication provider
+- [Pantry](https://github.com/alpas/pantry) - WIP - file storage
+- [PingCRM](https://github.com/alpas/pingcrm) PingCRM demo
+- [Starter Template](https://github.com/alpas/starter) - get your projects off to a head start
 
 <a name="guides"></a>
 ## Guides and Tutorials 
