@@ -3,17 +3,17 @@
 A curated list of kick-ass resources and real-life apps for Alpas Framework
 
 - [Websites](#website)
-- [Libraries](#libraries)
-- [Samples](#samples)
-- [Tutorials](#tutorials)
-- [Articles](#articles)
+- [Guides and Tutorials](#libraries)
+- [Out-of-the-box Libraries](#samples)
+- [Helpful Libraries](#tutorials)
+- [Real Websites and Apps using Alpas](#articles)
 - [Videos](#videos)
 - [Books](#books)
 - [Tools](#tools)
 
 ## Helpful Websites
 
-#### Alpas 
+#### Alpas (#website)
 - [Alpas](https://alpas.dev/)
 - [Alpas Documentation](https://alpas.dev/docs/installation)
 - [Alpas Blog](https://medium.com/alpas-dev)
