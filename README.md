@@ -49,6 +49,8 @@ A curated list of kick-ass resources and real-life apps for Alpas Framework
 
 <a name="realworld"></a>
 ## Real Websites and Apps using Alpas
+- [AlpasCasts](https://alpascasts.com)
+- [Lucca Wellness](https://luccawellness.com)
 - [That App Show](https://thatappshow.com)
 
 <a name="videos"></a>
